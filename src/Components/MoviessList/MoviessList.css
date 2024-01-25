@@ -1,0 +1,27 @@
+
+.furst{
+  
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.DivBUr button{
+  margin-left: 550px;
+  margin-top: 6px;
+  width: 100px;
+  border-radius:10px ;
+  background: blue;
+  border: none;
+  transition: 0.5s;
+  
+}
+
+.DivBUr button:hover{
+  background: red;
+  color: aliceblue;
+  box-shadow: 1px 1px 20px 5px red;
+  transition: 0.5s;
+}
+
+

@@ -1,0 +1,14 @@
+.Name{
+  color: rgb(0, 255, 47);
+  border: 2px solid red;
+  width: 300px;
+  height: 350px;
+  
+  border-radius: 20px;
+}
+
+
+.Name img {
+  width: 200px;
+  height: 250px;  
+}

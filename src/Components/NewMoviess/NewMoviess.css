@@ -1,0 +1,22 @@
+/* form button {
+  background: blue;
+  width: 70px;
+  height: 25px;
+  border: none;
+  border-radius: 10px;
+  margin-left: 10px;
+  color: black;
+  transition: 0.5s;
+
+}
+
+form button:hover{
+  box-shadow: 1px 1px 20px 5px red;
+  background: red;
+  transition: 0.5s;
+  color: #fff;
+}
+
+form{
+  margin-top: 50px;
+} */

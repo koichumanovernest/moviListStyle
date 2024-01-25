@@ -1,0 +1,17 @@
+/* input{
+  width: 300px;
+  height: 30px;
+  border-radius: 20px;
+  border: none;
+  margin-left: 10px;
+  background: blue;
+  transition: 1s;
+
+}
+
+input:hover{
+  transition: 1s;
+  background: red;
+  color: aliceblue;
+  box-shadow: 1px 1px 20px 7px red;
+} */

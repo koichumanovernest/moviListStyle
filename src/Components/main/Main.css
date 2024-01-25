@@ -1,0 +1,23 @@
+.button1{
+  background: blue;
+  margin-left: 10px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  transition: 1s;
+  margin-bottom: 100px;
+}
+
+.button1:hover{
+background: red;
+transition: 1s;
+  color: white;
+  box-shadow: 1px 1px 10px 5px red;
+
+}
+
+.cards {
+  position: relative;
+  top: 300px;
+}
